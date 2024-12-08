@@ -25,52 +25,49 @@
   overflow: hidden;
 }
 .frame-20 {
-  padding: 10px;
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  align-items: center;
-  justify-content: center;
+  position: absolute;
+  right: 0;
+  bottom: 0;
   width: 1131px;
   height: 810px;
-  position: absolute;
-  left: 50%;
-  translate: -50% -50%;
-  top: 50%;
+  flex-direction: column;
+  align-items: flex-start;
 }
 .bbe-7-c-4-cb-1-de-129327-d-7463-cc-08012-ea-7-1 {
   opacity: 0.9;
-  flex-shrink: 0;
-  width: 1131px;
-  height: 810px;
+  transform-origin: top left;
   position: absolute;
   right: -1131px;
-  bottom: 0px;
-  transform-origin: 0 0;
-  transform: rotate(0deg) scale(-1, 1);
-  object-fit: cover;
+  bottom: 0;
+  width: 1131px;
+  height: 810px;
+  background-position: -650px 100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+ 
 }
 .frame-21 {
-  padding: 10px;
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  align-items: flex-end;
-  justify-content: flex-start;
+   position: absolute;
+  left: 0;
+  bottom: 0;
   width: 1440px;
   height: 769px;
-  position: absolute;
-  left: 0px;
-  bottom: 0px;
+  flex-direction: column;
+  align-items: flex-start;
 }
 .bbe-7-c-4-cb-1-de-129327-d-7463-cc-08012-ea-7-2 {
-  flex-shrink: 0;
+  position: absolute;
+  left: 0;
+  bottom: 0;
   width: 1440px;
   height: 769px;
-  position: absolute;
-  left: 0px;
-  bottom: 0px;
-  object-fit: cover;
+  background-position: -210px 170px;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+ 
 }
 .container-3 {
   padding: 98px 0px 98px 0px;
