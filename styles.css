@@ -46,7 +46,6 @@
   position: absolute;
   right: -1131px;
   bottom: 0px;
-  background-position: -650px 100px;
   transform-origin: 0 0;
   transform: rotate(0deg) scale(-1, 1);
   object-fit: cover;
@@ -71,7 +70,6 @@
   position: absolute;
   left: 0px;
   bottom: 0px;
-  background-position: -210px 170px;
   object-fit: cover;
 }
 .container-3 {
