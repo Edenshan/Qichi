@@ -1,0 +1,165 @@
+
+
+.contact,
+.contact * {
+  box-sizing: border-box;
+}
+.contact {
+  background: var(
+    --miao,
+    linear-gradient(
+      180deg,
+      rgba(238, 212, 203, 1) 0%,
+      rgba(203, 197, 220, 1) 100%
+    )
+  );
+  height: 832px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 31px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 100px;
+  height: 697px;
+  position: relative;
+}
+.image-2 {
+  border-radius: 20px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 100px;
+  position: relative;
+  object-fit: cover;
+}
+.image-4 {
+  border-radius: 20px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 100px;
+  position: relative;
+  object-fit: cover;
+}
+.image-7 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 100.2px;
+  position: relative;
+  object-fit: cover;
+}
+.image-6 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 100px;
+  position: relative;
+  object-fit: cover;
+}
+.image-5 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 100px;
+  position: relative;
+  object-fit: cover;
+}
+.image-1 {
+  border-radius: 20px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 100px;
+  position: relative;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 129px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 165px;
+  position: relative;
+}
+.eden-shan-w-gmail-com {
+  color: #281357;
+  text-align: left;
+  font-family: "AtkinsonHyperlegible-BoldItalic", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+  font-style: italic;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.eden-echo-86-18939739091 {
+  color: #281357;
+  text-align: left;
+  font-family: "AtkinsonHyperlegible-BoldItalic", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+  font-style: italic;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._86-18939739091 {
+  color: #281357;
+  text-align: left;
+  font-family: "AtkinsonHyperlegible-BoldItalic", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+  font-style: italic;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.id-edenshan {
+  color: #281357;
+  text-align: left;
+  font-family: "AtkinsonHyperlegible-BoldItalic", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+  font-style: italic;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.edenshan-86-18939739091 {
+  color: #281357;
+  text-align: left;
+  font-family: "AtkinsonHyperlegible-BoldItalic", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+  font-style: italic;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
